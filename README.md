@@ -36,10 +36,10 @@
 ├── src/                  # Archivos fuente para Gulp
 ├── gulpfile.js           # Configuración de Gulp
 ├── index.php             # Página principal
+```
 
 ## Demo en Vivo
 ➡️ **[Ver Aplicación en Vivo](https://bienes-raices.damedominio.xyz)**
----
 
 ## Instalación
 

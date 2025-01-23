@@ -41,6 +41,9 @@
 ## Demo en Vivo
 ➡️ **[Ver Aplicación en Vivo](https://bienes-raices.damedominio.xyz)**
 
+usuario: desarrolloweb150305@gmail.com 
+clave: admin123
+
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
